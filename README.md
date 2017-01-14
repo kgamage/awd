@@ -1,6 +1,6 @@
 Git Introduction
 
-if New Project
+##if New Project
 
 1. git init
 2. git status - To check, current branch , Modified,new,deleted files
