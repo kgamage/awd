@@ -8,3 +8,7 @@ Git Introduction
 4. git commit -a - To add description for the commit
 5. git remote add origin - To add remote location for the local change
 6. git push -u origin
+
+## Change new branch
+git checkout -b (Branch name)
+
